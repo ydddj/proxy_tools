@@ -26,7 +26,6 @@ jobs:
       id: last_commit
       run: |
          echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
-
     - name: Get changed files
       if: github.event_name == 'push'
       id: file_conf
@@ -114,7 +113,6 @@ jobs:
                     [ -n "$select" ] && echo "$select" | sed 's/^/#!select = /' >> "$plugin_file"
                     [ -n "$input" ] && echo "$input" | sed 's/^/#!input = /' >> "$plugin_file"
                     echo "#!date = $date" >> "$plugin_file"
-
                     mitm=$(grep -i "^hostname" $conf_file | awk -F '=' '{print $2}' | sed 's/^[[:space:]]*//; s/[[:space:]]*$//; s/%0D//; s/,$//; s/,\([^ ]\)/, \1/g')
                     [ -z "$mitm" ] &&mitm=$(grep -i "^hostname" $download_file | awk -F '=' '{print $2}' | sed 's/^[[:space:]]*//; s/[[:space:]]*$//; s/%0D//; s/,$//; s/,\([^ ]\)/, \1/g' | sed 's/%INSERT% //; s/%APPEND% //')
                     script=$(sed -n '/\[Script\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d')
@@ -142,13 +140,11 @@ jobs:
                     sed -i '/script-response-body/ s/^/http-response /' "$plugin_file"
                     sed -i '/script-response-body/ s/$/, requires-body = true, tag =/' "$plugin_file"
                     sed -i 's/url script-response-body/script-path =/' "$plugin_file"
-
                     # http-request
                     sed -i '/script-request-\(header\|body\)/ s/^/http-request /' "$plugin_file"
                     sed -i '/script-request-header/ s/$/, tag =/' "$plugin_file"
                     sed -i '/script-request-body/ s/$/, requires-body = true, tag =/' "$plugin_file"
                     sed -i 's/url script-request-\(header\|body\)/script-path =/' "$plugin_file"
-
                     #tag=
                     for keyword in 'http-response' 'http-request'; do
                         line_numbers=$(grep -n "$keyword" "$plugin_file" | cut -d: -f1)
@@ -171,7 +167,6 @@ jobs:
                         done
                     done
                     sed -i '/^# /d' "$plugin_file"
-
                     # script下载
                     mkdir -p "tmp/$script_folder/$script_name/script" "$script_folder/$script_name/script"
                     while IFS= read -r line; do
@@ -196,7 +191,6 @@ jobs:
                         mv -f "$script_tmp_path" "$script_folder_path"
                       fi
                     done < "$plugin_file"
-
                     # 规范文件格式
                     #sed -i '1,/^#!date/{/^$/d}' $conf_file
                     #sed -i 's/\([^[:space:]]\)\s*=\s*\([^[:space:]]\)/\1 = \2/g' $plugin_file
@@ -299,7 +293,6 @@ jobs:
         git config --global user.email "iydddj@gmail.com" && git config --global user.name "Bot"
         git add . && git commit -m "插件更新$(date +'%Y-%m-%d %H:%M')" || exit 0
         git push
-
     - name: Cleanup Workflow
       uses: Mattraks/delete-workflow-runs@main
       with:
