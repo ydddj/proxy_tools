@@ -5,9 +5,9 @@
 #!desc = 一站式插件仓库任君选择，一键安装，方便快捷。使用前请在本插件的详情页面为[PROXY]项分配代理策略。
 #!openUrl = https://🎈.com
 #!author = Peng-YM
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://raw.githubusercontent.com/ydddj/proxy_tools/main/scripts/loon_gallery/icon/loon_gallery.png
-#!date = 2024-04-04 16:14:34
+#!date = 2024-07-27 04:22:34
 
 [Rule]
 DOMAIN, loon-plugin.vercel.app, PROXY

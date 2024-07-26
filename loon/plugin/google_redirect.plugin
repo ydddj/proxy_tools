@@ -4,9 +4,9 @@
 #!name = Google重定向
 #!desc = 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。
 #!author = 可莉🅥
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://raw.githubusercontent.com/ydddj/proxy_tools/main/scripts/google_redirect/icon/google_redirect.png
-#!date = 2024-04-17 04:13:48
+#!date = 2024-07-27 04:22:34
 
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn 302 https://www.google.com
