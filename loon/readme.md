@@ -4,9 +4,9 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
+| ✅[TikTok解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) | 2024/07/28 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) |
 | ✅[YouTube去广告](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) |
 | ✅[微信外部链接跳转](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/weixin_redirect.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/weixin_redirect.plugin) |
-| ✅[TikTok解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) |
 | ✅[QQ链接解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/qq_redirect.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/qq_redirect.plugin) |
 | ✅[插件仓库](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/loon_gallery.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/loon_gallery.plugin) |
 | ✅[京东比价](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/jd_price.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/jd_price.plugin) |
