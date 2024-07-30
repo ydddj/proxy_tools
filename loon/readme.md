@@ -4,6 +4,7 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
+| ✅[Sub-Store](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/07/31 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[TikTok解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) | 2024/07/28 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) |
 | ✅[YouTube去广告](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) |
 | ✅[微信外部链接跳转](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/weixin_redirect.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/weixin_redirect.plugin) |
@@ -13,7 +14,6 @@
 | ✅[Google重定向](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/google_redirect.plugin) | 2024/07/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/google_redirect.plugin) |
 | ✅[BoxJs](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/boxjs.plugin) | 2024/07/24 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/boxjs.plugin) |
 | ✅[Script-Hub](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/script_hub.plugin) | 2024/07/22 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/script_hub.plugin) |
-| ✅[Sub-Store](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/07/21 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[1.1.1.1配置管理](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/1.1.1.1.plugin) | 2024/07/17 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/1.1.1.1.plugin) |
 | ✅[节点检测工具](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/loon_node_tool.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/loon_node_tool.plugin) |
 | ✅[百度搜索防跳转](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/baidu_redirect.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/baidu_redirect.plugin) |
@@ -28,10 +28,10 @@
 
 | 🔓插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
-| ✅[酷我音乐&畅听解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/kuwo.plugin) | 2024/07/30 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/kuwo.plugin) |
+| ✅[网易云音乐解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/wangyiyun.plugin) | 2024/07/31 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/wangyiyun.plugin) |
+| ✅[酷我音乐&畅听解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/kuwo.plugin) | 2024/07/31 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/kuwo.plugin) |
 | ✅[芒果TV解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/mangguotv.plugin) | 2024/07/20 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/mangguotv.plugin) |
 | ✅[Documents解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/documents.plugin) | 2024/07/11 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/documents.plugin) |
-| ✅[网易云音乐解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/wangyiyun.plugin) | 2024/06/18 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/wangyiyun.plugin) |
 | ✅[Gp4o解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/gp4o.plugin) | 2024/05/19 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/gp4o.plugin) |
 | ✅[彩云天气解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/caiyuntianqi.plugin) | 2024/04/26 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/caiyuntianqi.plugin) |
 | ✅[寻简解锁](https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/xunjian.plugin) | 2024/04/08 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/ydddj/proxy_tools/main/loon/plugin/xunjian.plugin) |

@@ -9,7 +9,7 @@
 #!icon = https://raw.githubusercontent.com/ydddj/proxy_tools/main/scripts/sub_store/icon/sub_store.png
 #!select = 节点缓存有效期,1分钟,5分钟,10分钟,30分钟,1小时,2小时,3小时,6小时,12小时,24小时,48小时,72小时,参数传入
 #!select = 响应头缓存有效期,1分钟,5分钟,10分钟,30分钟,1小时,2小时,3小时,6小时,12小时,24小时,48小时,72小时,参数传入
-#!date = 2024-07-21 04:18:52
+#!date = 2024-07-31 04:18:42
 
 [Rule]
 DOMAIN,sub-store.vercel.app,PROXY
