@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年09月23日05:14:12
-# 数量: 97784条
+# 更新: 2024年09月24日05:15:13
+# 数量: 97783条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -94071,7 +94071,6 @@ DOMAIN-SUFFIX,o2o.api.xiaomi.com
 DOMAIN-SUFFIX,ssp.xiaomi.com
 DOMAIN-SUFFIX,starfish.pandora.xiaomi.com
 DOMAIN-SUFFIX,a.market.xiaomi.com
-DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tz.sec.xiaomi.com
 DOMAIN-SUFFIX,video.market.xiaomi.com
 DOMAIN-SUFFIX,ad1.xiaomi.com
