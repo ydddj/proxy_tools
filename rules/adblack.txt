@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年10月08日05:15:52
-# 数量: 98386条
+# 更新: 2024年10月10日05:15:14
+# 数量: 98398条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -12918,6 +12918,7 @@ DOMAIN-SUFFIX,bhaoea.cn
 DOMAIN-SUFFIX,bharalhallahs.com
 DOMAIN-SUFFIX,bharsilked.com
 DOMAIN-SUFFIX,bhartianteact.com
+DOMAIN-SUFFIX,sentry.bhbapp.cn
 DOMAIN-SUFFIX,bhcont.com
 DOMAIN-SUFFIX,bhcostefja.com
 DOMAIN-SUFFIX,bhcumsc.com
@@ -18167,6 +18168,7 @@ DOMAIN-SUFFIX,x.china1715.com
 DOMAIN-SUFFIX,china99315.cn
 DOMAIN-SUFFIX,bdjsfl.chinabig.com.cn
 DOMAIN-SUFFIX,adsys.chinacloudapp.cn
+DOMAIN-SUFFIX,pcmactivity.chinacloudsites.cn
 DOMAIN-SUFFIX,chinacontraryintrepid.com
 DOMAIN-SUFFIX,sq1.chinacsky.com
 DOMAIN-SUFFIX,sq2.chinacsky.com
@@ -35107,6 +35109,7 @@ DOMAIN-SUFFIX,fztyrv.xyz
 DOMAIN-SUFFIX,zxr.fzxrjx.com
 DOMAIN-SUFFIX,e.fzyda.com
 DOMAIN-SUFFIX,m.fzyda.com
+DOMAIN-SUFFIX,simulatelab-datasink.fzzixun.com
 DOMAIN-SUFFIX,g--o.info
 DOMAIN-SUFFIX,g-content.bi
 DOMAIN-SUFFIX,smetrics.g-shock.com
@@ -35698,6 +35701,9 @@ DOMAIN-SUFFIX,smetrics.geeksquad.com
 DOMAIN-SUFFIX,geeksundigne.com
 DOMAIN-SUFFIX,link.sparrow.geekup.vn
 DOMAIN-SUFFIX,analytics.geekyminds.net
+DOMAIN-SUFFIX,cooper.geelark.cn
+DOMAIN-SUFFIX,datasink.geelark.cn
+DOMAIN-SUFFIX,datasink.geelark.com
 DOMAIN-SUFFIX,metrics.geelongadvertiser.com.au
 DOMAIN-SUFFIX,nsmetrics.geelongadvertiser.com.au
 DOMAIN-SUFFIX,geerairu.net
@@ -51182,6 +51188,7 @@ DOMAIN-SUFFIX,linkev.com
 DOMAIN-SUFFIX,linkexchange.com
 DOMAIN-SUFFIX,linkexchangers.net
 DOMAIN-SUFFIX,st.linkfire.com
+DOMAIN-SUFFIX,datasink.linkfox.com
 DOMAIN-SUFFIX,linkgrand.com
 DOMAIN-SUFFIX,linkhaitao.com
 DOMAIN-SUFFIX,linkifier.com
@@ -54577,7 +54584,7 @@ DOMAIN-SUFFIX,rabbit.tg.meitu.com
 DOMAIN-SUFFIX,xiuxiu.android.dl.meitu.com
 DOMAIN-SUFFIX,report.meituan.com
 DOMAIN-SUFFIX,analytics.meituan.net
-DOMAIN-SUFFIX,ata-sdk-uuid-report.dreport.meituan.net
+DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,xiuxiu.mobile.meitudata.com
 DOMAIN-SUFFIX,meitumq.com
 DOMAIN-SUFFIX,dc.meitustat.com
@@ -82791,6 +82798,7 @@ DOMAIN-SUFFIX,log.tpns.tencent.com
 DOMAIN-SUFFIX,ping.cloud.tencent.com
 DOMAIN-SUFFIX,sensors.cloud.tencent.com
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
+DOMAIN-SUFFIX,report.meeting.tencent.com
 DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,adcdn.tencentmusic.com
@@ -96862,6 +96870,7 @@ DOMAIN-SUFFIX,v1-ad.video.yximgs.com
 DOMAIN-SUFFIX,v2-ad.video.yximgs.com
 DOMAIN-SUFFIX,v3-ad.video.yximgs.com
 DOMAIN-SUFFIX,js-ad.a.yximgs.com
+DOMAIN-SUFFIX,tob-tracker.yximgs.com
 DOMAIN-SUFFIX,yxjnzydc.com
 DOMAIN-SUFFIX,yxkbgg.xyz
 DOMAIN-SUFFIX,yxkfaskdaybakf.com
@@ -97536,6 +97545,9 @@ DOMAIN-SUFFIX,m.zineworm.com
 DOMAIN-SUFFIX,bavvgo.zingat.com
 DOMAIN-SUFFIX,apps.zingeroo.com
 DOMAIN-SUFFIX,target.zinia.com
+DOMAIN-SUFFIX,datasink.ziniao.com
+DOMAIN-SUFFIX,logs-collect.ziniao.com
+DOMAIN-SUFFIX,test-cb-log.ziniao.com
 DOMAIN-SUFFIX,insights.zinio.com
 DOMAIN-SUFFIX,zinipx.xyz
 DOMAIN-SUFFIX,marketing.zinniawealth.com

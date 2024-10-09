@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年10月08日05:15:52
-# 数量: 98386条
+# 更新: 2024年10月10日05:15:14
+# 数量: 98398条
 .000dn.com
 .0013.cc
 .s8.001fzc.com
@@ -12918,6 +12918,7 @@
 .bharalhallahs.com
 .bharsilked.com
 .bhartianteact.com
+.sentry.bhbapp.cn
 .bhcont.com
 .bhcostefja.com
 .bhcumsc.com
@@ -18167,6 +18168,7 @@
 .china99315.cn
 .bdjsfl.chinabig.com.cn
 .adsys.chinacloudapp.cn
+.pcmactivity.chinacloudsites.cn
 .chinacontraryintrepid.com
 .sq1.chinacsky.com
 .sq2.chinacsky.com
@@ -35107,6 +35109,7 @@
 .zxr.fzxrjx.com
 .e.fzyda.com
 .m.fzyda.com
+.simulatelab-datasink.fzzixun.com
 .g--o.info
 .g-content.bi
 .smetrics.g-shock.com
@@ -35698,6 +35701,9 @@
 .geeksundigne.com
 .link.sparrow.geekup.vn
 .analytics.geekyminds.net
+.cooper.geelark.cn
+.datasink.geelark.cn
+.datasink.geelark.com
 .metrics.geelongadvertiser.com.au
 .nsmetrics.geelongadvertiser.com.au
 .geerairu.net
@@ -51182,6 +51188,7 @@
 .linkexchange.com
 .linkexchangers.net
 .st.linkfire.com
+.datasink.linkfox.com
 .linkgrand.com
 .linkhaitao.com
 .linkifier.com
@@ -54577,7 +54584,7 @@
 .xiuxiu.android.dl.meitu.com
 .report.meituan.com
 .analytics.meituan.net
-.ata-sdk-uuid-report.dreport.meituan.net
+.dreport.meituan.net
 .xiuxiu.mobile.meitudata.com
 .meitumq.com
 .dc.meitustat.com
@@ -82791,6 +82798,7 @@
 .ping.cloud.tencent.com
 .sensors.cloud.tencent.com
 .tpstelemetry.tencent.com
+.report.meeting.tencent.com
 .tencentmind.com
 .ad.tencentmusic.com
 .adcdn.tencentmusic.com
@@ -96862,6 +96870,7 @@
 .v2-ad.video.yximgs.com
 .v3-ad.video.yximgs.com
 .js-ad.a.yximgs.com
+.tob-tracker.yximgs.com
 .yxjnzydc.com
 .yxkbgg.xyz
 .yxkfaskdaybakf.com
@@ -97536,6 +97545,9 @@
 .bavvgo.zingat.com
 .apps.zingeroo.com
 .target.zinia.com
+.datasink.ziniao.com
+.logs-collect.ziniao.com
+.test-cb-log.ziniao.com
 .insights.zinio.com
 .zinipx.xyz
 .marketing.zinniawealth.com
