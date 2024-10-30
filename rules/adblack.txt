@@ -1,6 +1,6 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年10月29日05:15:37
+# 更新: 2024年10月31日05:15:38
 # 数量: 92966条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -490,6 +490,7 @@ DOMAIN-SUFFIX,httpdns.music.163.com
 DOMAIN-SUFFIX,netapm.music.163.com
 DOMAIN-SUFFIX,qipt.1632j6.cn
 DOMAIN-SUFFIX,163ren.com
+DOMAIN-SUFFIX,ye.dun.163yun.com
 DOMAIN-SUFFIX,165tchuang.com
 DOMAIN-SUFFIX,tr.newsletter.1664france.fr
 DOMAIN-SUFFIX,166br.com
@@ -65710,7 +65711,6 @@ DOMAIN-SUFFIX,btrace.video.qq.com
 DOMAIN-SUFFIX,c.l.qq.com
 DOMAIN-SUFFIX,c2.l.qq.com
 DOMAIN-SUFFIX,cb.l.qq.com
-DOMAIN-SUFFIX,cc.map.qq.com
 DOMAIN-SUFFIX,cm.l.qq.com
 DOMAIN-SUFFIX,configsvr.msf.3g.qq.com
 DOMAIN-SUFFIX,download.sj.qq.com
