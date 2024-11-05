@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年11月05日05:15:05
-# 数量: 89651条
+# 更新: 2024年11月06日05:15:15
+# 数量: 89650条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -54039,7 +54039,6 @@ DOMAIN-SUFFIX,yt-adv.bn.netease.com
 DOMAIN-SUFFIX,mam6.netease.com
 DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
-DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN-SUFFIX,info.netec.com
 DOMAIN-SUFFIX,sc.neteller.com
 DOMAIN-SUFFIX,netflame.cc
