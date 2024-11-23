@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,v4.plex.tv
   - DOMAIN-SUFFIX,631777.xyz
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipapi.co
