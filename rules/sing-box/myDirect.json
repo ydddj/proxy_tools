@@ -9,10 +9,10 @@
     {
       "domain_suffix": [
         "*1777.xyz",
-        "*as.lol",
         "blog.cloudflare.com",
         "dash.cloudflare.com",
         "developers.cloudflare.com",
+        "nas.lol",
         "plex.direct"
       ]
     }
