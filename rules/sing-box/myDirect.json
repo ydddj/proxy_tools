@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "v4.plex.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "*1777.xyz",
+        "*as.lol",
+        "blog.cloudflare.com",
+        "dash.cloudflare.com",
+        "developers.cloudflare.com",
+        "plex.direct"
+      ]
+    }
+  ]
+}
