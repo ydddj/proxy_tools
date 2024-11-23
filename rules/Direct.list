@@ -1,5 +1,7 @@
 DOMAIN,v4.plex.tv
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,nas.lol
+DOMAIN-SUFFIX,631777.xyz
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,plex.direct
