@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "v4.plex.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "plex.direct"
+      ]
+    }
+  ]
+}
