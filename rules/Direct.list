@@ -1,6 +1,6 @@
 DOMAIN,v4.plex.tv
-DOMAIN-SUFFIX,1777.xyz
-DOMAIN-SUFFIX,as.lol
+DOMAIN-SUFFIX,*1777.xyz
+DOMAIN-SUFFIX,*as.lol
 DOMAIN-SUFFIX,blog.cloudflare.com
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,developers.cloudflare.com
