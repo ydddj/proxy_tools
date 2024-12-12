@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年12月11日05:16:42
-# 数量: 90637条
+# 更新: 2024年12月13日05:16:47
+# 数量: 90636条
 DOMAIN-SUFFIX,t.0000o.xyz
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -60857,7 +60857,6 @@ DOMAIN-SUFFIX,pkhhyool.com
 DOMAIN-SUFFIX,pki87n.pro
 DOMAIN-SUFFIX,pkkjxs.cn
 DOMAIN-SUFFIX,pklujb.xyz
-DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,pkrchp001.com
 DOMAIN-SUFFIX,links.pkrewards.com
 DOMAIN-SUFFIX,pkudawbkcl.com
