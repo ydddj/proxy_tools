@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年12月23日05:14:00
-# 数量: 89503条
+# 更新: 2024年12月25日05:14:52
+# 数量: 89505条
 DOMAIN-SUFFIX,t.0000o.xyz
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -87252,6 +87252,8 @@ DOMAIN-SUFFIX,ue.yeyoucdn.com
 DOMAIN-SUFFIX,ssh.yezijizhang.com
 DOMAIN-SUFFIX,yezilm.com
 DOMAIN-SUFFIX,baby.yf898.com
+DOMAIN-SUFFIX,yfanads.cn
+DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,e.yfano.com
 DOMAIN-SUFFIX,m.yfano.com
 DOMAIN-SUFFIX,yfaqgk.xyz
