@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2025年03月14日05:15:53
-# 数量: 87697条
+# 更新: 2025年03月16日05:15:44
+# 数量: 87702条
 .000dn.com
 .0013.cc
 .s8.001fzc.com
@@ -6924,6 +6924,7 @@
 .adashx.ut.amap.com
 .amap-aos-info-nogw.amap.com
 .v6-adashx.ut.amap.com
+.h-adashx.ut.amap.com
 .amarceusan.com
 .amarfa.ir
 .ablinks.info.amaro.com
@@ -77848,6 +77849,10 @@
 .wmedia-track.uc.cn
 .coral-task.uc.cn
 .applogios.uc.cn
+.applog-perf.uc.cn
+.adashx.ut.uc.cn
+.h-adashx.ut.uc.cn
+.s-adashx.ut.uc.cn
 .gm.uc003.com
 .uc123.com
 .1.uc129.com

@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2025年03月14日05:15:53
-# 数量: 87697条
+# 更新: 2025年03月16日05:15:44
+# 数量: 87702条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -6924,6 +6924,7 @@ DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,amap-aos-info-nogw.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+DOMAIN-SUFFIX,h-adashx.ut.amap.com
 DOMAIN-SUFFIX,amarceusan.com
 DOMAIN-SUFFIX,amarfa.ir
 DOMAIN-SUFFIX,ablinks.info.amaro.com
@@ -77848,6 +77849,10 @@ DOMAIN-SUFFIX,puds.test.uae.uc.cn
 DOMAIN-SUFFIX,wmedia-track.uc.cn
 DOMAIN-SUFFIX,coral-task.uc.cn
 DOMAIN-SUFFIX,applogios.uc.cn
+DOMAIN-SUFFIX,applog-perf.uc.cn
+DOMAIN-SUFFIX,adashx.ut.uc.cn
+DOMAIN-SUFFIX,h-adashx.ut.uc.cn
+DOMAIN-SUFFIX,s-adashx.ut.uc.cn
 DOMAIN-SUFFIX,gm.uc003.com
 DOMAIN-SUFFIX,uc123.com
 DOMAIN-SUFFIX,1.uc129.com
